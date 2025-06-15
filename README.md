@@ -1,2 +1,2 @@
-# IDAT_python_fundamentall
+# IDAT_python_fundamental
 Curso de fundamentos de Python
