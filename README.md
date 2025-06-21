@@ -1,2 +1,5 @@
 # IDAT_python_fundamental
-Curso de fundamentos de Python
+Curso: Fundamentos de Python
+Docente: Eduardo Anibal Chuquihuaccha Cordova
+Intitucion: IDAT
+Sede: ATE
